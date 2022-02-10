@@ -1,0 +1,16 @@
+\\fs-059\studuser$\Gr12\k.patel61\student\app\bin\Debug\net5.0\app.exe
+\\fs-059\studuser$\Gr12\k.patel61\student\app\bin\Debug\net5.0\app.deps.json
+\\fs-059\studuser$\Gr12\k.patel61\student\app\bin\Debug\net5.0\app.runtimeconfig.json
+\\fs-059\studuser$\Gr12\k.patel61\student\app\bin\Debug\net5.0\app.runtimeconfig.dev.json
+\\fs-059\studuser$\Gr12\k.patel61\student\app\bin\Debug\net5.0\app.dll
+\\fs-059\studuser$\Gr12\k.patel61\student\app\bin\Debug\net5.0\ref\app.dll
+\\fs-059\studuser$\Gr12\k.patel61\student\app\bin\Debug\net5.0\app.pdb
+\\fs-059\studuser$\Gr12\k.patel61\student\app\obj\Debug\net5.0\app.csproj.AssemblyReference.cache
+\\fs-059\studuser$\Gr12\k.patel61\student\app\obj\Debug\net5.0\app.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-059\studuser$\Gr12\k.patel61\student\app\obj\Debug\net5.0\app.AssemblyInfoInputs.cache
+\\fs-059\studuser$\Gr12\k.patel61\student\app\obj\Debug\net5.0\app.AssemblyInfo.cs
+\\fs-059\studuser$\Gr12\k.patel61\student\app\obj\Debug\net5.0\app.csproj.CoreCompileInputs.cache
+\\fs-059\studuser$\Gr12\k.patel61\student\app\obj\Debug\net5.0\app.dll
+\\fs-059\studuser$\Gr12\k.patel61\student\app\obj\Debug\net5.0\ref\app.dll
+\\fs-059\studuser$\Gr12\k.patel61\student\app\obj\Debug\net5.0\app.pdb
+\\fs-059\studuser$\Gr12\k.patel61\student\app\obj\Debug\net5.0\app.genruntimeconfig.cache
